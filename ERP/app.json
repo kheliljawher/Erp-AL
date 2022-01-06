@@ -1,0 +1,26 @@
+{
+  "id": "3c68cd85-5fbd-4036-a5d2-d483eb898e97",
+  "name": "ERP",
+  "publisher": "Jawher Khelil",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": ["TranslationFile"]
+}
